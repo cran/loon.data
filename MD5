@@ -1,8 +1,8 @@
-06392f9867ed909a9d270ee4d89a3c58 *DESCRIPTION
+95360a5f9915f15778df41f24606a541 *DESCRIPTION
 eaded847f367f2e72d942bb6f0cccd55 *NAMESPACE
 45836da54d2f43203b20202c8e47c08a *NEWS
-7d6178c712169a8f6ab3358afd1de9aa *NEWS.md
-d9856bfe9823c4976b6cef763ba73b20 *R/alaska_forest.R
+346691dadf16196413f98f1507df9078 *NEWS.md
+5ad751006fc5cdab52bf1370fa313b0c *R/alaska_forest.R
 524709810466bfa0f13520f752365694 *R/binaryalphadigits.R
 4c879a353891796ad941c8f67f099947 *R/digits.R
 00c16c3bdfe20bf643efa60b20b3564d *R/faces.R
@@ -14,7 +14,7 @@ dd3c364f5091bebeb8169a83f9d76aa8 *R/igg1.R
 76f0f84f5e57e5b3a7c781f13a759537 *R/ordalphadigits.R
 43941c43c77de38f60ee4335caf37846 *R/ordfrey.R
 4bbc7dcaf0dee2b5174bc68fb8f84e2d *R/pkg_data.R
-10ab76da0b512531de90b06144523ed9 *data/alaska_forest.rda
+38ada5eea3c2118a391cf78e8cff9c13 *data/alaska_forest.rda
 3a0ffc635670a1c28e85a0cb82cf05ff *data/binaryalphadigits.rda
 67077a644ba7fde599d09209adba98e6 *data/datalist
 59cb6714a3f96afc5bde1e82a4151936 *data/digits.rda
@@ -26,7 +26,7 @@ d4502968db22016c6665416a54ba7de6 *data/igg1.rda
 104acc36a8d137d72ce03130cf468f5c *data/minority.rda
 5b2d385bb9e4b6d2a2cbd6284e568a75 *data/ordalphadigits.rda
 57af582224acd6fee23fb9e000daa92f *data/ordfrey.rda
-52c8d1c972597fe8cfe5bbad1d4eb288 *man/alaska_forest.Rd
+f2f327e763d82eb9fde4ebc312c98eb6 *man/alaska_forest.Rd
 3e7e6686b35363e4a4ab630f98b70c09 *man/binaryalphadigits.Rd
 969fd57872446bc4f7a29f15c3915d57 *man/digits.Rd
 ab8f928f0c405f4fbf3d993b1d7709a3 *man/faces.Rd
