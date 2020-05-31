@@ -1,6 +1,6 @@
-573ebf5dd1217acd955a01adb69647f7 *DESCRIPTION
+1146ae50f26c90cd272a0e90bdedfbb8 *DESCRIPTION
 eaded847f367f2e72d942bb6f0cccd55 *NAMESPACE
-a14ee432da1f4acffc7f8efc665dbbaf *NEWS.md
+443968a6c2f801cbf07fcefc5e67e0eb *NEWS.md
 59b8d75af780811b262fdf31c4d8b5e6 *R/SAheart.R
 6108f3c9d85ac16ed81886e19f894fa5 *R/SCmolecule.R
 28bb78b07d6f3a8092346c1309be1f98 *R/alaska_forest.R
@@ -8,6 +8,7 @@ f752001b7752a8116f68923781f1bea1 *R/binaryalphadigits.R
 e07473379b805bdd7997763ca12c7373 *R/blocks.R
 59c363a17ae714a522c3d41107e6c425 *R/bone.R
 987c322924db4f7241efcdfda13cd3e3 *R/bone_ext.R
+ea23aabe2f810f0a5c041630c0539488 *R/covidNZ.R
 cce3c69c0e8d829be4024c980f394fc9 *R/crabSpecies.R
 dd2e57a984dc8887b2034c6abab0e5d3 *R/diabetes.R
 3d03bbdfb87c0e59eda11596fa316abf *R/digits.R
@@ -19,13 +20,14 @@ e7844d9fa99cd12a3f757dbbbd06a558 *R/faces.R
 c2e8a490df60e290a69f2b590209e26d *R/lepto.R
 413a26fc42b38cd0ec9f45bbe2b12af4 *R/lightspeeds.R
 b5979f0691c659fd1625a1e855bc0e9d *R/lizards.R
-acaed9afe656a0e0d02ff814fd257db8 *R/medicalRecords.R
+6b224961406a7f85176baadd61e27d50 *R/medicalRecords.R
 d1fe5fa98f1f1450530af453d88341cb *R/michelson_1879.R
 6557562f6810a47e4bab500af92685ea *R/minority.R
 ba0c29ab3c88c28bd0a551954b83a2fd *R/ordalphadigits.R
 45db10adb112e4d7aa934fca9413e661 *R/ordfrey.R
-366eca197406d1441fb5c405e0f9ada2 *R/pandemic.R
+ed64c37a02bcdc943131488f93af3095 *R/pandemic.R
 fb00f2081f218f2ebd099c8e8dd16a0c *R/pkg_data.R
+2656416a64ad81545183680f16b13a34 *R/placenamesCanada.R
 b57be1ef4c09758cb163ae3cda1b60ef *data/SAheart.rda
 b22c336a7aae0903d025a9748435aaa7 *data/SCmolecule.rda
 38ada5eea3c2118a391cf78e8cff9c13 *data/alaska_forest.rda
@@ -33,8 +35,9 @@ b22c336a7aae0903d025a9748435aaa7 *data/SCmolecule.rda
 a9416f664813a61eeb94c652d7b24776 *data/blocks.rda
 9bba589d827da7b3eaf7f021551de727 *data/bone.rda
 60a91efd06dea6baff43bb2176dfd321 *data/bone_ext.rda
+9aed205bc41b7ea9593160014af0620a *data/covidNZ.rda
 68a36659d1f6de717e3cd3f43473f6b3 *data/crabSpecies.rda
-20f9a67ab7f376f2d7e8b635eba84497 *data/datalist
+96cc3acb890988cd267ef42dae18bfe1 *data/datalist
 f296d27820d62258dfb62e2881055d83 *data/diabetes.rda
 59cb6714a3f96afc5bde1e82a4151936 *data/digits.rda
 259539106b2bcd1ef28cb66ad7080f56 *data/elements.rda
@@ -51,6 +54,7 @@ b298a291ea1f0166eb956245633e43fe *data/judgment.rda
 5b2d385bb9e4b6d2a2cbd6284e568a75 *data/ordalphadigits.rda
 57af582224acd6fee23fb9e000daa92f *data/ordfrey.rda
 216d43d345f349a929c2a7d44885379d *data/pandemic.rda
+5d5eccc107fa21ecfec7746b6c24dbcd *data/placenamesCanada.rda
 4f958c5bdb49abd8ebe01c35c891a7f8 *man/SAheart.Rd
 a100c25f94321039a8664635e310eb82 *man/SCmolecule.Rd
 29ddfaf4a8f4a3d9a78183f055c644b6 *man/alaska_forest.Rd
@@ -58,6 +62,7 @@ a100c25f94321039a8664635e310eb82 *man/SCmolecule.Rd
 315802beda1f7ede12b780c0d8918806 *man/blocks.Rd
 319985c9f54d5cf60d54cf3b0f823d59 *man/bone.Rd
 97362d8d1ce0f149e53c9431b53c1b08 *man/bone_ext.Rd
+0943979aaf5c4414b6cca1e7d7e774f0 *man/covidNZ.Rd
 b15f9deabdb196f90e0184670ae725bb *man/crabSpecies.Rd
 dc1177bbe8fe4445648d5abac4d9a892 *man/diabetes.Rd
 6b9c535fa0cdcb46eda25b552ec17d26 *man/digits.Rd
@@ -70,10 +75,11 @@ a631d6bd2a4853cde13a503e4bfc6025 *man/igg1.Rd
 c91eff0a8546eb57f6451e8ffa5ccb70 *man/lepto.Rd
 b151d77ef51e5790c08c844d8814e110 *man/lightspeeds.Rd
 be89e5e3d64a9860fcc614a7c299c4f0 *man/lizards.Rd
-c760001dcd05e3564b137d9f280a7a4d *man/medicalRecords.Rd
+47e418f3b7c6cdbbcc5b40a0b434219e *man/medicalRecords.Rd
 c0a4f75e2cd6e4f22c0a3eda33612a83 *man/michelson_1879.Rd
 769c22a6a8c81c58cf4cb3b560d4db06 *man/minority.Rd
 5447abf414667362ad92dafe3b613800 *man/ordalphadigits.Rd
 bf257135719f4b75d159a8ce437c57bd *man/ordfrey.Rd
-8e5d877f1ca373ee743dd73b53aa3b93 *man/pandemic.Rd
+f34f17db41ad60710ca5104d83c9bd8d *man/pandemic.Rd
 12dddccc07e5f54bc49c275fc54b7b3e *man/pkg_data.Rd
+c2dc9271ca9195705acd346f584d2e96 *man/placenamesCanada.Rd

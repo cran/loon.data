@@ -1,7 +1,7 @@
 Package: loon.data
 Type: Package
 Title: Data Used to Illustrate 'Loon' Functionality
-Version: 0.0.9
+Version: 0.1.0
 Authors@R: c(
     person("R. Wayne", "Oldford", , "rwoldford@uwaterloo.ca", role =  c("aut", "cre")),
     person("Adrian", "Waddell", , "adrian@waddell.ch", role = "aut")
@@ -13,9 +13,9 @@ License: GPL-2
 RoxygenNote: 7.1.0
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2020-05-18 23:51:50 UTC; rwoldford
+Packaged: 2020-05-30 18:08:38 UTC; rwoldford
 Author: R. Wayne Oldford [aut, cre],
   Adrian Waddell [aut]
 Maintainer: R. Wayne Oldford <rwoldford@uwaterloo.ca>
 Repository: CRAN
-Date/Publication: 2020-05-19 05:40:02 UTC
+Date/Publication: 2020-05-31 02:00:02 UTC
