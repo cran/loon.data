@@ -1,9 +1,9 @@
-7fcd487c357123bce67d351435c27207 *DESCRIPTION
+442fe2f39510ba7c5ce5f2700d748501 *DESCRIPTION
 eaded847f367f2e72d942bb6f0cccd55 *NAMESPACE
-2f1e6b87f87f19da49f9634fd8095d0b *NEWS.md
-5af05f288894649d4e2a3f2f852a75b9 *R/SAheart.R
+a5ddac6025692bcf6feaf39391cdb7bb *NEWS.md
+a2930ecb60eabb091adb95c35c1dff35 *R/SAheart.R
 6108f3c9d85ac16ed81886e19f894fa5 *R/SCmolecule.R
-744c4298e9a60370bbb8aeb0e4a68f71 *R/alaska_forest.R
+e0ca03db8390a5a7f0d4f7edc3d41947 *R/alaska_forest.R
 8af3f0a8ad67502140067a176cb4c3f0 *R/binaryalphadigits.R
 e07473379b805bdd7997763ca12c7373 *R/blocks.R
 8df54343182daef281633c73b0f1d051 *R/bone.R
@@ -57,7 +57,7 @@ b298a291ea1f0166eb956245633e43fe *data/judgment.rda
 216d43d345f349a929c2a7d44885379d *data/pandemic.rda
 5d5eccc107fa21ecfec7746b6c24dbcd *data/placenamesCanada.rda
 fed4f7fabdb5df243a09aae56cf0be55 *data/trtPan.rda
-4529c9522a5509a668427cc708277d12 *man/SAheart.Rd
+c77d0ba0c8ebd5a0076c250c040d9d27 *man/SAheart.Rd
 a100c25f94321039a8664635e310eb82 *man/SCmolecule.Rd
 9e365a04ec906d0ec64c479682d65e5b *man/alaska_forest.Rd
 197d88a547ff590854aafef6df262b1d *man/binaryalphadigits.Rd
